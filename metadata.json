@@ -1,0 +1,16 @@
+{
+  "name": "chriscowley-ovirtagent",
+  "version": "0.1.0",
+  "author": "chriscowley",
+  "summary": "Installs the oVirt guest tools",
+  "license": "Apache 2.0",
+  "source": "https://github.com/chriscowley/chriscowley-ovirtagent.git",
+  "project_page": "https://github.com/chriscowley/chriscowley-ovirtagent",
+  "issues_url": "https://github.com/chriscowley/chriscowley-ovirtagent/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ]
+}
